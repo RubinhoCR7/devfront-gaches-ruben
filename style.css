@@ -1,0 +1,26 @@
+#conteneur{
+    display: flex;
+    border: solid 1px black;
+    width: 300px;
+    justify-content: space-around;
+    align-items: center;
+    height: 100px;
+}
+
+.element1{
+    border: solid 1px red;
+    width: 70px;
+    height: 50px
+}
+
+.element2{
+    border: solid 1px green;
+    width: 70px;
+    height: 50px
+}
+
+.element3{
+    border: solid 1px blue;
+    width: 70px;
+    height: 50px
+}
